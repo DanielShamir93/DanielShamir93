@@ -13,6 +13,8 @@
   [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.shamir.93@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shamir-3a22ba168/)
 
+<br>
+
 ## Languages and Technologies
 
 These are some of the languages and technologies that I've used in the past and that I am currenly using :
