@@ -1,11 +1,17 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
  
+<img align='left' src="https://i.ibb.co/LdkVbsX/Whats-App-Image-2022-02-10-at-11-52-41.jpg" width="220">
+   
+<br>
+ 
   :boy: My name is Daniel Shamir. 
   
   :books: In my spare time I enjoy exploring and learning about new discoveries and new technologies. 
   
   :man_technologist: At the moment, I'm working on my own personal web development projects, as well as looking into my first steps in the tech world.
-
+  
+  [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.shamir.93@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shamir-3a22ba168/)
 
 ## Languages and Technologies
 
@@ -31,9 +37,3 @@ These are some of the languages and technologies that I've used in the past and 
 ![Material-UI](https://img.shields.io/badge/-MaterialUI-000000?style=flat&logo=Material-UI)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-
-## Contact me
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.shamir.93@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shamir-3a22ba168/)
-  
