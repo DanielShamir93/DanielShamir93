@@ -1,6 +1,6 @@
 <h1> Hello there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
  
-<img align='left' src="https://i.ibb.co/LdkVbsX/Whats-App-Image-2022-02-10-at-11-52-41.jpg" width="220">
+<img align='left' src="https://i.ibb.co/tcHjyfM/Whats-App-Image-2022-02-10-at-11-57-49.jpg" width="220">
    
 <br>
  
