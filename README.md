@@ -6,14 +6,14 @@
  
   :boy: My name is Daniel Shamir. 
   
-  :books: In my spare time I enjoy exploring and learning about new discoveries and new technologies. 
+  :student: I'm a Fullstack deveoper.
   
-  :man_technologist: At the moment, I'm working on my own personal web development projects, as well as looking into my first steps in the tech world.
+  :man_technologist: At the moment, I'm working on my own personal web development projects
+  
+  :books: In my spare time I enjoy exploring and learning about new discoveries and new technologies. 
   
   [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.shamir.93@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shamir-3a22ba168/)
-
-<br>
 
 ## Languages and Technologies
 
