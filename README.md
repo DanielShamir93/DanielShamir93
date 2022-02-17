@@ -8,7 +8,7 @@
   
   :student: I'm a Fullstack developer.
   
-  :man_technologist: At the moment, I'm working on my own personal web development projects
+  :man_technologist: At the moment, I'm working on my own personal web development projects.
   
   :books: In my spare time I enjoy exploring and learning about new discoveries and new technologies. 
   
