@@ -6,7 +6,7 @@
  
   :boy: My name is Daniel Shamir. 
   
-  :student: I'm a Fullstack deveoper.
+  :student: I'm a Fullstack developer.
   
   :man_technologist: At the moment, I'm working on my own personal web development projects
   
